@@ -1,0 +1,13 @@
+[{
+  "file": "/Users/avinashkumar/C_practices/Sample/oddeven/main.c",
+  "directory": "/Users/avinashkumar/C_practices/Sample/oddeven",
+  "command": "clang  -c /Users/avinashkumar/C_practices/Sample/oddeven/main.c -o /Users/avinashkumar/C_practices/Sample/oddeven/main.c.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "/Users/avinashkumar/C_practices/Sample/add/main.c",
+  "directory": "/Users/avinashkumar/C_practices/Sample/add",
+  "command": "clang  -c /Users/avinashkumar/C_practices/Sample/add/main.c -o /Users/avinashkumar/C_practices/Sample/add/main.c.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -DNDEBUG -I. -I.  -O2  -Wall"
+ }, {
+  "file": "/Users/avinashkumar/C_practices/sample/Sample/main.c",
+  "directory": "/Users/avinashkumar/C_practices/sample/Sample",
+  "command": "clang  -c /Users/avinashkumar/C_practices/sample/Sample/main.c -o /Users/avinashkumar/C_practices/sample/Sample/main.c.o  -I/usr/local/include -I/Library/Developer/CommandLineTools/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk/System/Library/Frameworks -DNDEBUG -I. -I.  -O2  -Wall"
+ }]
